@@ -1,0 +1,41 @@
+{
+  "name": "jb2a-extras",
+  "id": "jb2a-extras",
+  "title": "JB2A - Free Extra Assets",
+  "description": "A mini module to share some extra free assets that cannot be part of the Patreon collection!",
+  "author": "Gazkhan#8192 and Wassily#8035",
+  "authors": [
+    {
+      "name": "Jules",
+      "url": "https://www.patreon.com/JB2A",
+      "discord": "Gazkhan#8192"
+    },
+    {
+      "name": "Ben",
+      "url": "https://www.patreon.com/JB2A",
+      "discord": "Wassily#8035"
+    }
+  ],
+  "url": "https://www.patreon.com/JB2A",
+  "license": "",
+  "flags": {},
+  "version": "0.0.1",
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "10",
+  "compatibility": {
+    "minimum": 10,
+    "verified": 10.291
+  },
+  "esmodules": [
+    "./scripts/module/init.js"
+  ],
+  "styles": [],
+  "languages": [],
+  "relationships": {},
+  "socket": false,
+  "manifest": "https://github.com/Jules-Bens-Aa/jb2a-extras/releases/latest/download/module.json",
+  "download": "https://github.com/Jules-Bens-Aa/jb2a-extras/releases/download/0.0.1/jb2a-extras-0.0.1.zip",
+  "protected": false,
+  "coreTranslation": false,
+  "library": false
+}

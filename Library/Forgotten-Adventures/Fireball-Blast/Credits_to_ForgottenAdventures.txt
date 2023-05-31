@@ -1,0 +1,16 @@
+These assets are based on tiles from the Map Making Pack from Forgotten Adventures.
+https://www.forgotten-adventures.net/product/map-making/assets/mapmaking-pack/
+
+- Blast_Mark_A1_2x2.png
+- Blast_Mark_Debris_A1_2x2.png
+- Blast_Mark_Debris_A2_2x2.png
+- Blast_Mark_Debris_B1_2x2.png
+
+They are merged together with a few modifications and was intended to be used with our Fireball assets.
+To respect the license of Forgotten Adventures, the modified asset had to be excluded from our modules.
+
+If you like this assets, please considere supporting Forgotten Adventures.
+https://www.forgotten-adventures.net/
+https://www.patreon.com/forgottenadventures/posts
+
+Copyright info : https://www.forgotten-adventures.net/info/#copyright
