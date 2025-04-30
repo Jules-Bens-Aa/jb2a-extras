@@ -18,12 +18,12 @@
   "url": "https://www.patreon.com/JB2A",
   "license": "",
   "flags": {},
-  "version": "0.0.1",
+  "version": "0.0.2",
   "minimumCoreVersion": "10",
   "compatibleCoreVersion": "10",
   "compatibility": {
     "minimum": 10,
-    "verified": 10.291
+    "verified": 12
   },
   "esmodules": [
     "./scripts/module/init.js"
@@ -33,7 +33,7 @@
   "relationships": {},
   "socket": false,
   "manifest": "https://github.com/Jules-Bens-Aa/jb2a-extras/releases/latest/download/module.json",
-  "download": "https://github.com/Jules-Bens-Aa/jb2a-extras/releases/download/0.0.1/jb2a-extras-0.0.1.zip",
+  "download": "https://github.com/Jules-Bens-Aa/jb2a-extras/releases/download/0.0.2/jb2a-extras-0.0.2.zip",
   "protected": false,
   "coreTranslation": false,
   "library": false
